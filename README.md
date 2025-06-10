@@ -22,7 +22,9 @@ This is a Java console-based game developed as part of the CodSoft Java Internsh
 
 ## 🎥 Demo Video
 
-[LinkedIn Demo Video](https://linkedin.com) ← *(Paste your LinkedIn post link here)*
+The demo video is available in this repository.  
+[Click here to download or watch demo_video.mp4](demo_video.mp4)
+
 
 ## 📂 GitHub Repo
 
