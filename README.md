@@ -32,5 +32,6 @@ This repo is part of the CodSoft internship:
 https://github.com/DivyaThakur17/CODSOFT
 
 ## 🏷 Hashtags
+#codsoft #javadevelopment #internship #task2
 
 
