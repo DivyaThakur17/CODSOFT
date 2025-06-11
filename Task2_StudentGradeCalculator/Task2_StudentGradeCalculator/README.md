@@ -19,10 +19,12 @@ This Java program allows the user to input marks for multiple subjects, calculat
 
 ![Screenshot](screenshot2.png)
 
+
 ## 🎥 Demo Video
 
 The demo video is available in this repository.  
 [Click here to download or watch demo_video2.mp4](demo_video2.mp4)
+
 
 ## 📂 GitHub Repo
 
