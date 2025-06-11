@@ -17,12 +17,15 @@ This is a Java console-based ATM interface that allows users to check balance, d
 
 ## 📸 Screenshot
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot3.png)
+
+
+
 
 ## 🎥 Demo Video
 
 The demo video is available in this repository.  
-[Click here to download or watch demo_video.mp4](demo_video.mp4)
+[Click here to download or watch demo_video.mp4](demo_video3.mp4)
 
 ## 📂 GitHub Repo
 
