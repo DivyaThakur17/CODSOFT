@@ -16,8 +16,8 @@ This is a Java console-based ATM interface that allows users to check balance, d
 3. Choose an option from the menu
 
 ## 📸 Screenshot
-
 ![Screenshot](screenshot3.png)
+
 
 
 
