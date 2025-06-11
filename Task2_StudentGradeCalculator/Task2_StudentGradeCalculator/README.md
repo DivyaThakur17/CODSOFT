@@ -1,51 +1,39 @@
-import java.util.Scanner;
+# Task 2: Student Grade Calculator
 
-public class Task2 {
+This Java program allows the user to input marks for multiple subjects, calculates the total marks, average percentage, and assigns a grade based on the result.
 
-    public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
+## ✅ Features
 
-        System.out.print("Enter the number of subjects: ");
-        int numSubjects = scanner.nextInt();
+- Input marks for multiple subjects
+- Calculates total and average
+- Assigns grade based on percentage
+- Input validation for 0–100 range
 
-        int[] marks = new int[numSubjects];
-        int total = 0;
+## 💻 How to Run
 
-        for (int i = 0; i < numSubjects; i++) {
-            System.out.print("Enter marks for subject " + (i + 1) + " (out of 100): ");
-            marks[i] = scanner.nextInt();
+1. Open `task2.java` in Eclipse or any Java IDE
+2. Run the program
+3. Enter number of subjects and marks when prompted
 
-            if (marks[i] < 0 || marks[i] > 100) {
-                System.out.println("Invalid input! Please enter marks between 0 and 100.");
-                i--; 
-            } else {
-                total += marks[i];
-            }
-        }
+## 📸 Screenshot
 
-        double average = (double) total / numSubjects;
+![Screenshot](screenshot2.png)
 
-        char grade;
-        if (average >= 90) {
-            grade = 'A';
-        } else if (average >= 80) {
-            grade = 'B';
-        } else if (average >= 70) {
-            grade = 'C';
-        } else if (average >= 60) {
-            grade = 'D';
-        } else {
-            grade = 'F';
-        }
+## 🎥 Demo Video
 
-        System.out.println("\n--- Result ---");
-        System.out.println("Total Marks: " + total);
-        System.out.printf("Average Percentage: %.2f%%\n", average);
-        System.out.println("Grade: " + grade);
+The demo video is available in this repository.  
+[Click here to download or watch demo_video2.mp4](demo_video2.mp4)
 
-        scanner.close();
-    }
-}
+## 📂 GitHub Repo
+
+This task is part of the CodSoft internship:  
+https://github.com/DivyaThakur17/CODSOFT
+
+## 🏷 Hashtags
+#codsoft #javadevelopment #internship #task2
+
+
+      
 
 
 
